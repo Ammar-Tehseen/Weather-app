@@ -5,7 +5,7 @@ const weather = document.querySelector(".weather")
 
 const weatherIcon = document.querySelector("#weatherIcon");
 
-let apiKey = "c75ba13e250a3acdb145780c2ab111ae";
+let apiKey = "447f8802943c899d93183dc9cdbb25e7";
 
 async function checkWeather(city) {
 
